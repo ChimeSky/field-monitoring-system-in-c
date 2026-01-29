@@ -10,6 +10,7 @@ modular programming, structures, and basic system design.
 - Basic data processing and display
 
 ## Project Structure
+```
 CampExpFieldMon/
 ├── main.c          # Program entry, controls overall workflow
 ├── UI.c            # Console user interface implementation
@@ -17,9 +18,10 @@ CampExpFieldMon/
 ├── functions.c     # Core business logic functions
 ├── functions.h     # Declarations for core logic
 ├── model.h         # Data structures and models
+```
 
 ## Build & Run
-This project is built using Visual Studio (C language).
+This project is built using Visual Studio 2026 (C language).
 
 ## Purpose
 This project is mainly for learning and practicing C programming, including:
