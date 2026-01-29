@@ -1,4 +1,5 @@
-# CampExpFieldMon
+# CampExpFieldMon  
+**校园实验田环境监测系统**
 # Field Monitoring System (C)
 **南京农业大学 计算机系**  
 **Nanjing Agricultural University (NJAU)**   
