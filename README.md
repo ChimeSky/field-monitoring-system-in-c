@@ -29,7 +29,7 @@ CampExpFieldMon/
 ```
 
 ## Build & Run
-This project is built using Visual Studio 2026 (C language).
+This project is built using **Visual Studio 2026** (C language).
 
 ## Purpose
 This project is mainly for learning and practicing C programming, including:
