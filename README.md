@@ -1,11 +1,17 @@
-# CampExpFieldMon  
-**校园实验田环境监测系统**
-# Field Monitoring System (C)
-**南京农业大学 计算机系**  
-**Nanjing Agricultural University (NJAU)**   
-**CS Department**  
+# CampExpFieldMon
 
-A simple field monitoring system implemented in C, designed as a practice project for
+**校园实验田环境监测系统**  
+**Field Monitoring System (C)**
+
+---
+
+**南京农业大学 · 计算机系**  
+**Nanjing Agricultural University (NJAU)**  
+**Department of Computer Science**
+
+---
+
+A simple field monitoring system implemented in C, designed as a practice project for  
 modular programming, structures, and basic system design.
 
 ## Features
