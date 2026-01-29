@@ -11,10 +11,11 @@ modular programming, structures, and basic system design.
 
 ## Project Structure
 CampExpFieldMon/
-- main.c        # Program entry
-- UI.c / UI.h   # User interface
-- functions.c  # Core logic
-- model.h      # Data structures
+- main.c
+- UI.c
+- UI.h
+- functions.c
+- model.h
 ## Build & Run
 This project is built using Visual Studio (C language).
 
