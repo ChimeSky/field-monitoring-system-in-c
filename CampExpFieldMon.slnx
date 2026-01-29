@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CampExpFieldMon/CampExpFieldMon.vcxproj" Id="034d8a97-0053-4fec-8275-a2bef7c2d8e8" />
+</Solution>
